@@ -1,5 +1,10 @@
 # vue-test
 
+##  vue登录练习
+```
+使用路由守卫保护页面，进入要进行登录验证
+```
+
 ## Project setup
 ```
 npm install
